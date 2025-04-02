@@ -4,7 +4,7 @@
 
 ## Overview
 
-These outputs provide the geometric foundation for 3D Gaussian Splatting systems like [Brush](https://github.com/ArthurBrussee/brush). It resizes images in a specified workspace directory and saves the resized images in a new folder while preserving the original images in a separate backup folder. It supports multiple scaling options and ensures that images are properly handled before processing. This also works on MacOS.
+These outputs from video or images input provide the geometric foundation for 3D Gaussian Splatting systems like [Brush](https://github.com/ArthurBrussee/brush). It resizes images in a specified workspace directory and saves the resized images in a new folder while preserving the original images in a separate backup folder. It supports multiple scaling options and ensures that images are properly handled before processing. This also works on MacOS.
 
 ## Features
 
