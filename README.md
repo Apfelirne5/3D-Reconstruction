@@ -8,10 +8,7 @@ These outputs provide the geometric foundation for 3D Gaussian Splatting systems
 
 ## Features
 
-- **Preserves original images**:
-
-  - If the workspace path ends with `"images"`, the script replaces `"images"` with `"images_original"` to create a backup.
-  - If the workspace path does not end with `"images"`, it appends `"images_original"` to store the original images.
+- **Preserves original images**
 
 - **Supports various scaling options**:
 
