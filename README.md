@@ -23,7 +23,7 @@ These outputs provide the geometric foundation for 3D Gaussian Splatting systems
 
 ## Installation
 
-### **1. Install Dependencies**
+### ** Install Dependencies**
 
 Make sure you have Python installed (>=3.8). Then, install the required dependencies:
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-    - Run the script and pass the workspace path with images or a video along with the desired scaling option.
+Run the script and pass the workspace path with images or a video along with the desired scaling option.
 
 ## Using This for 3D Gaussian Splatting
 
